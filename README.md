@@ -71,3 +71,7 @@ So we highly recommend you to contribute in a meaningful way to other [Hacktober
 </a>
 
 Made with [contributors-img](https://contributors-img.web.app).
+
+
+
+Thanks for participating in this amazing event
